@@ -1,4 +1,4 @@
-<!--Neste trabalho prático, você será responsável por criar uma página HTML dedica-da a homenagear um ídolo ou figura de destaque
+Neste trabalho prático, você será responsável por criar uma página HTML dedica-da a homenagear um ídolo ou figura de destaque
 que você admire e que tenha tido uma influência significativa em sua vida ou carreira.
 A página deverá ser bem estruturada, com o uso correto de diversos elementos HTML, como containers, tabelas, elementos de multimídia,
 elementos de texto e formatação.
